@@ -1,0 +1,1 @@
+export { default } from 'example-addon/components/hello-world/component';
