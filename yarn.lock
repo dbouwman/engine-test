@@ -675,7 +675,7 @@
   dependencies:
     tslib "^1.9.3"
 
-"@esri/hub-common@^1.11.0":
+"@esri/hub-common@^1.11.0", "@esri/hub-common@^1.11.1":
   version "1.11.1"
   resolved "https://registry.yarnpkg.com/@esri/hub-common/-/hub-common-1.11.1.tgz#4351b4b1e994ef3bc0cb0855bfc9b2e66b41f4d2"
   dependencies:
