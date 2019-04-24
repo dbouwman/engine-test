@@ -21,7 +21,6 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "@esri/hub-common": "^1.11.0",
     "@esri/hub-events": "^1.11.1",
     "ember-auto-import": "^1.3.0",
     "ember-cli-babel": "^6.16.0",
@@ -52,6 +51,9 @@
     "eslint-plugin-node": "^7.0.1",
     "loader.js": "^4.7.0",
     "qunit-dom": "^0.8.0"
+  },
+  "peerDependencies": {
+    "@esri/hub-common": "^1.11.0"
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
